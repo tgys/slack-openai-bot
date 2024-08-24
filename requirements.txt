@@ -1,0 +1,5 @@
+requests
+opencv-python-headless
+openai
+flask
+slack-sdk
